@@ -13,7 +13,7 @@ I made this script because the community I am a part of, Valhallas Most Wanted, 
 ## Installation
 First [Download v1.0.0.0](https://github.com/djc12/MultiTwitchBuilder/raw/master/MultiTwitch.zip)
 
-Once downloaded, open up the scripts portion of Anhkbot. Click the Import symbol in the top right and select the zip file you just downloaded. Enable the script and ti should now work!
+Once downloaded, open up the scripts portion of Anhkbot. Click the Import symbol in the top right and select the zip file you just downloaded. Enable the script and it should now work!
 
 
 ## License
