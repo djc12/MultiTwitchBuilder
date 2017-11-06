@@ -8,7 +8,7 @@ This is currently the first iteration of a Multi Twitch builder for the site bet
 
 ## Motivation
 
-I made this script because the community I am a part of, Valhallas Most Wanted, always had issues with who was streaming and buuilding multi twitches for people who wanted to watch all of us.
+I made this script because the community I am a part of, Valhallas Most Wanted, always had issues with who was streaming and building multi twitches for people who wanted to watch all of us.
 
 ## Installation
 First [Download v1.0.0.0](https://github.com/djc12/MultiTwitchBuilder/raw/master/MultiTwitch.zip)
